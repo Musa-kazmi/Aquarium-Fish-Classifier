@@ -1,5 +1,5 @@
-streamlit
-tensorflow-cpu
-Pillow
-plotly
-numpy
+streamlit==1.38.0
+tensorflow-cpu==2.17.0
+Pillow==10.4.0
+plotly==5.24.0
+numpy==1.26.4
